@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidTool.iml" filepath="$PROJECT_DIR$/AndroidTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luch_androidtool/luch_androidtool.iml" filepath="$PROJECT_DIR$/luch_androidtool/luch_androidtool.iml" />
+    </modules>
+  </component>
+</project>
